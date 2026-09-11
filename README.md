@@ -48,8 +48,8 @@ Desarrollar competencias técnicas para la creación de páginas web estructurad
 | `estilotabla2.css` | Hoja de estilos CSS utilizada para modificar la apariencia de la tabla del archivo `tabla2.html`. |
 | `parrafos.html` | Ejercicio enfocado en el uso y organización de párrafos y elementos de texto en HTML. |
 | `estiloparrafos.css` | Hoja de estilos utilizada para aplicar diferentes propiedades y selectores CSS a los elementos de `parrafos.html`. |
-| `Ejemplo4.html` | Archivo correspondiente al Ejemplo #4 desarrollado durante el laboratorio de HTML5 y CSS3. |
-| `Ejemplo5.html` | Archivo correspondiente al Ejemplo #5 desarrollado durante el laboratorio de HTML5 y CSS3. |
+| `Ejemplo4.html` | Practica que redirige con **un hipervínculo en HTML** para saber información técnica sobre PHP. |
+| `Ejemplo5.html` | Ejercicio sobre **hipervínculos en HTML**, creando enlaces externos de forma segura. |
 | `validacionesHTML5.html` | Ejercicio relacionado con la utilización y validación de elementos y características de HTML5. |
 
 ## 🛠️ Tecnologías utilizadas
